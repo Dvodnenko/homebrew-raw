@@ -2,7 +2,7 @@ class Raw < Formula
   desc "unstable lifeos"
   homepage "https://github.com/Dvodnenko/raw"
   url "https://github.com/Dvodnenko/raw/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "ebe9a7e290ff649d604488a4057f903ca291080cc0157daa19a5e479d0aa7855"
+  sha256 "ad52c4621d5179c089ad30beaf86f977412abeb53c48da8115f3ee17635d21d8"
   license "MIT"
 
   depends_on "python@3.12" => :build
